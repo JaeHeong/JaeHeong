@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeHeong&layout=compact)](https://github.com/JaeHeong/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeHeong&langs_count=8)](https://github.com/JaeHeong/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeHeong&show_icons=true&theme=radical)
