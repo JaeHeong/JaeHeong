@@ -35,8 +35,8 @@ Building reliable infrastructure and scalable ML pipelines.
 ## GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=JaeHeong&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeHeong&layout=compact&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JaeHeong&theme=default" alt="GitHub Stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaeHeong&theme=default" alt="Top Languages" height="165" />
 </p>
 
 <p>
