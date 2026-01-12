@@ -47,6 +47,6 @@ Building reliable infrastructure and scalable ML pipelines.
 
 ## Connect
 
-[![Blog](https://img.shields.io/badge/Tech_Blog-11B48A?style=flat&logo=blogger&logoColor=white)](https://tech.jaehyeong.site/)
+[![Blog](https://img.shields.io/badge/Tech_Blog-11B48A?style=flat&logo=blogger&logoColor=white)](https://tech.jaehyeong.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kjh-qha970301)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rlawogud970301@gmail.com)
