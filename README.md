@@ -1,5 +1,4 @@
 # Hi, I'm Jaehyeong Kim 👋
-
 **DevOps & MLOps Engineer**
 
 Building reliable infrastructure and scalable ML pipelines.
@@ -34,14 +33,23 @@ Building reliable infrastructure and scalable ML pipelines.
 
 ## GitHub Stats
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JaeHeong&theme=default" alt="GitHub Stats" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaeHeong&theme=default" alt="Top Languages" height="165" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaeHeong&theme=github_dark" />
+</div>
 
-<p>
-  <img src="https://streak-stats.demolab.com/?user=JaeHeong&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JaeHeong&theme=github_dark" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaeHeong&theme=github_dark" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JaeHeong&theme=github_dark&utcOffset=9" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JaeHeong&theme=github_dark" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=JaeHeong&theme=github-dark-blue&hide_border=true" />
+</div>
 
 ---
 
